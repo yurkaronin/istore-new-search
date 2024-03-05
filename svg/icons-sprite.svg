@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <!-- крестик  -->
+  <symbol id="icon-cross" viewBox="0 0 18 18" fill="none">
+    <path d="M17 1L1 17" stroke="currentColor" stroke-width="2" />
+    <path d="M17 17L1 0.999999" stroke="currentColor" stroke-width="2" />
+  </symbol>
+
+  <symbo id="icon-search" viewBox="0 0 29 31" fill="none">
+    <path
+      d="M22.5727 12.2775C22.5727 18.5447 17.7054 23.555 11.7864 23.555C5.8673 23.555 1 18.5447 1 12.2775C1 6.01023 5.8673 1 11.7864 1C17.7054 1 22.5727 6.01023 22.5727 12.2775Z"
+      stroke="currentColor" stroke-width="2"></path>
+    <path
+      d="M20.7336 18.1251L27.1331 24.7912C28.0537 25.7502 28.0537 27.3049 27.1331 28.2638V28.2638C26.2125 29.2228 24.72 29.2228 23.7994 28.2638L17.6662 21.8751"
+      stroke="currentColor" stroke-width="2"></path>
+  </symbo>
+</svg>
